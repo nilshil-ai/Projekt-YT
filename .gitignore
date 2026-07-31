@@ -1,0 +1,5 @@
+.env
+pixabay_matcher/downloaded_images/
+__pycache__/
+*.pyc
+.venv/
