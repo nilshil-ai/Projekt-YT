@@ -1,0 +1,29 @@
+Somewhere out there right now is a point in space where gravity has completely broken the rules. Light can't escape it. Time bends around it. And if you got too close, your body would be torn apart, atom by atom. So what is a black hole, actually?
+
+To understand that, we have to start with how stars die. Every star is basically a battle. In its core, hydrogen atoms are being crushed together so hard they fuse into helium, and that fusion releases a massive outward push of energy. That push fights against the star's own gravity, which is constantly trying to crush it inward. For most of a star's life, these two forces are in a standoff.
+
+But really massive stars — ones many times heavier than our sun — don't stop at helium. They keep fusing heavier and heavier elements, all the way up to iron. And iron is where the whole system breaks. Fusing iron doesn't release energy, it costs energy. So once a star's core turns to iron, there's nothing left pushing back against gravity.
+
+The core collapses in less than a second. We're talking material falling inward at a quarter of the speed of light. The rest of the star slams into that collapsing core and rebounds outward in one of the most violent events in the universe: a supernova. It's actually inside that explosion that most of the heavy elements in the universe get forged — including, probably, some of the atoms in your own body.
+
+What's left behind depends on how much mass survives. Sometimes it's a neutron star, insanely dense but still technically a star. But if enough mass remains, gravity wins completely, and the core doesn't just get dense — it collapses forever. That's a black hole.
+
+Now here's where it gets strange. If you could actually look at a black hole, you wouldn't be looking at a hole at all.
+
+What you'd see is the event horizon — an invisible boundary in space, not a physical surface. Cross it, and to get back out you'd need to travel faster than light. Since nothing can do that, the event horizon is a one-way door. That's why it looks pitch black: it's not a dark object floating there, it's that literally no light escapes to reach your eyes.
+
+So if the black part is the event horizon, what's actually inside? That's the singularity, and honestly, we don't fully know what it is. Our best equations say all the mass of the collapsed star gets crushed into an infinitely small point with no size at all. When physicists run the math, it basically breaks — the same way a calculator breaks if you try to divide by zero.
+
+And here's a myth worth killing right now: black holes do not suck things in like some cosmic vacuum cleaner. Their gravity works exactly like any other object's gravity — it depends on mass and distance, nothing more. If you swapped our sun for a black hole of the exact same mass tomorrow, Earth's orbit wouldn't change at all. We'd just freeze, since there'd be no sunlight anymore. You'd only get pulled in if you got dangerously close to the event horizon itself.
+
+So what would actually happen to you if you fell in? It depends who's watching. From the outside, your friends would see you slow down more and more as you approached the event horizon, fading and redshifting, until you appeared frozen in place forever. But from your own point of view, time would feel completely normal — you'd just watch the rest of the universe race ahead of you, like the whole future playing in fast forward.
+
+As for what happens after you cross the horizon, physicists genuinely disagree. One idea says you'd be stretched — spaghettified — as gravity pulls harder on your feet than your head, until you're a thread of atoms one particle wide. Another idea, called the firewall theory, says you'd hit a wall of high-energy radiation right at the boundary and be destroyed instantly, before spaghettification even gets the chance. Nobody's proven which one is correct, and nobody's exactly lining up to test it.
+
+Not all black holes are created equal, either. Stellar black holes, formed the way we just described, are usually only a few times heavier than our sun, packed into a space smaller than a city. But at the center of nearly every galaxy sits something far bigger: a supermassive black hole. Our own galaxy's central black hole, Sagittarius A*, is about four million times the mass of the sun. That sounds enormous, until you compare it to TON 618, one of the largest black holes ever found — an estimated 66 billion solar masses, with an event horizon wider than our entire solar system.
+
+Given enough time, even something that powerful eventually dies. Stephen Hawking showed that black holes very slowly leak energy through a process now called Hawking radiation. Right at the edge of the event horizon, pairs of particles are constantly popping in and out of existence. Occasionally one particle falls in while its partner escapes, and that escaping particle carries away a tiny bit of the black hole's mass. Over time, that adds up.
+
+The catch is the timescale. A supermassive black hole could take longer than a googol years to fully evaporate — that's a one followed by a hundred zeros. The universe as we know it will almost certainly be unrecognizable, if it exists at all, long before the last black hole finally blinks out.
+
+Black holes might be the closest thing we have to actual magic in physics — objects so extreme they break our best equations. If this helped you actually understand them, hit like, and subscribe for more videos that make space make sense.
