@@ -70,3 +70,25 @@ Maps each moment in the transcript to the exact downloaded file to place on your
 | 064 | 06:00–06:10 | `064_deep_space_empty_vast.mp4` | part13 | Video | The universe as we know it will almost certainly be... |
 | 065 | 06:10–06:19 | `065_black_hole_space_art.jpg` | part1 | Image | Black holes might be the closest thing we have to actual... |
 | 066 | 06:19–06:26 | `066_night_sky_stars_pan.mp4` | part1 | Video | If this helped you actually understand them, hit like, and... |
+## Which beats are in which zip
+
+| Zip | Beat #s inside | File count |
+|-----|-----------------|------------|
+| part1 | 002-003, 007-008, 012-013, 015, 017, 021-024, 026, 028, 031-032, 034-038, 044-047, 051, 053-058, 060-063, 065-066 | 38 |
+| part2 | 001, 030, 042-043 | 4 |
+| part3 | 005, 020, 039, 048 | 4 |
+| part4 | 025, 049, 059 | 3 |
+| part5 | 019, 050 | 2 |
+| part6 | 009-010 | 2 |
+| part7 | 004, 006 | 2 |
+| part8 | 029 | 1 |
+| part9 | 014 | 1 |
+| part10 | 027 | 1 |
+| part11 | 041 | 1 |
+| part12 | 033 | 1 |
+| part13 | 064 | 1 |
+| part14 | 018 | 1 |
+| part15 | 016 | 1 |
+| part16 | 040 | 1 |
+| part17 | 052 | 1 |
+| part18 | 011 | 1 |
